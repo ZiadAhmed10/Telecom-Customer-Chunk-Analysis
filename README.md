@@ -22,4 +22,8 @@
 2- Formatting each tab in my file as a table 
 ![image](https://user-images.githubusercontent.com/121814714/223104260-9d314c1a-5e06-486e-8eaf-9cb689989848.png)
 
+3- Renaming each of my tables
+![image](https://user-images.githubusercontent.com/121814714/223104641-b0a41c90-08f2-4a24-b668-23bf4deb08e9.png)
+
+
 
