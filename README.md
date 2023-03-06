@@ -7,11 +7,11 @@
 ### https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113
 -------------------------------------------------
 ## Project objectives:
-- [Data Validation] (#Data-Validation)
+- [Data Validation](#Data-Validation)
 - Data Cleaning
 - Data Manipulation and communicating my insights
 - Designing a Dashboard
 - Categorical Data Encoding
 - Finding variables that impact churn Score
 ----------------------------------------------------------------------------
-###Data Validation
+### Data Validation
