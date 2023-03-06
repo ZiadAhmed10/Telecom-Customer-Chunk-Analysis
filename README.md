@@ -17,3 +17,7 @@
 ### Getting Started :
 --------------------
 - Giving the columns more descriptive names to make it easier for me to understnad the data [With the help of Kaggle]
+
+EX:
+![image](https://user-images.githubusercontent.com/121814714/223100643-41d19618-9f2d-43e2-b836-16c8ea1bf9c4.png)
+
