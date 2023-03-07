@@ -99,6 +99,12 @@ Every screenshot you're going to see in this file is just a sample, And i implem
 
 ![image](https://user-images.githubusercontent.com/121814714/223530771-d3368d8e-a6f6-40d0-9ee6-2895cb76f75e.png)
 -----------------------------------------------------------------------------
+<h1 align="center"> The Dashboard 📊 </h1>
+
+![image](https://user-images.githubusercontent.com/121814714/223555559-8c52ea77-b5dc-400f-92f6-e977d9580e3f.png)
+-----------------------------------------------------------------------------
+## `Insights' :
+- 
 
 
 
