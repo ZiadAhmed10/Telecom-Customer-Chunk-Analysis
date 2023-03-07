@@ -56,14 +56,17 @@ Every screenshot you're going to see in this file is just a sample, And i implem
 ### So, This is the time to ask questions in order to answer them to gain some insights about the data
 ## Questions that you'll find their answers through the project:
 - [How many of my customers are chunked or stayed or joined?](#how-many-of-my-customers-are-chunked-or-stayed-or-joined)
-- Why are people leave the company? [Chunk category]
-- [Title headline](#title-headline)
-- f
+- [Why do people leave the company?](#why-do-people-leave-the-company)
+- What is the minimum churn score that represents an alarming point for me?
+- Which quarter has the highest nnumber of chunked customers?
 - f
 ------------------------------------------------------------------------
 ### How many of my customers are chunked or stayed or joined?
+![image](https://user-images.githubusercontent.com/121814714/223469450-82b69bc9-8241-4dcc-900f-cb6b359d04d5.png)
 
-## Title headline
+
+### Why do people leave the company?
+![image](https://user-images.githubusercontent.com/121814714/223468641-a9855a25-1a6c-41c0-8099-4212aca7d952.png)
 
 
 
