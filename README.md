@@ -55,12 +55,15 @@ Every screenshot you're going to see in this file is just a sample, And i implem
 
 ### So, This is the time to ask questions in order to answer them to gain some insights about the data
 ## Questions that you'll find their answers through the project:
+- [How many of my customers are chunked or stayed or joined?](#how-many-of-my-customers-are-chunked-or-stayed-or-joined)
+- Why are people leave the company? [Chunk category]
+- [Title headline](#title-headline)
 - f
 - f
-- f
-- f
+------------------------------------------------------------------------
+### How many of my customers are chunked or stayed or joined?
 
-
+## Title headline
 
 
 
