@@ -54,34 +54,44 @@ Every screenshot you're going to see in this file is just a sample, And i implem
 ### By now the data is validated and cleaned, missing values are handeled, there are no outliers, there are no duplicates.
 
 ### So, This is the time to ask questions in order to answer them to gain some insights about the data
-## Questions that you'll find their answers through the project:
+## `Questions that you'll find their answers through the project:`
 - [How many of my customers are chunked or stayed or joined?](#how-many-of-my-customers-are-chunked-or-stayed-or-joined)
 - [Why do people leave the company?](#why-do-people-leave-the-company)
 - [What is the alarming churn scores group for my customers?](#what-is-the-alarming-churn-scores-group-for-my-customers)
 - [Which quarter has the highest number of churned customers?](#which-quarter-has-the-highest-number-of-churned-customers)
 - [Is there a relationship between customers gender and their status?](#is-there-a-relationship-between-customers-gender-and-their-status)
+- [What is the number of each customer status per mirital status?](#what-is-the-number-of-each-customer-status-per-mirital-status)
+- [Does the offers subscription have got something to do with customers status?](#does-the-offers-subscription-have-got-something-to-do-with-customers-status)
 ------------------------------------------------------------------------
 ### How many of my customers are chunked or stayed or joined?
 ![image](https://user-images.githubusercontent.com/121814714/223470705-39e96476-dc95-436e-9682-f3a3e030ff6f.png)
-
+------------------------------------------------------------------------
 ### Why do people leave the company?
 ![image](https://user-images.githubusercontent.com/121814714/223470791-ab063fbd-5626-496d-9a17-059b8a7c04c6.png)
-
+------------------------------------------------------------------------
 ### What is the alarming churn scores group for my customers?
 - Creating a column in my dataset that depend on 'Churn score' column's values utilizing IF condition, In order to create 10 bins of churn scores to make it easier to explore and analyze the data.
 - It's obvious that 'Churned' status in my customers started showing up in (56 : 65) churn score group which makes this scores group the turning point for my customers.
 ![image](https://user-images.githubusercontent.com/121814714/223489191-6fc5b4fd-4cb8-4a72-8026-82a9f5c9b0f4.png)
-
+------------------------------------------------------------------------
 ### Which quarter has the highest number of churned customers?
 - Almost all churned customers, They became churned in Q3 and that's because of the dataset, As the dataset has only 3 observational rows in Q1 and Q2
 
 ![image](https://user-images.githubusercontent.com/121814714/223496683-0a125b26-05ba-4de6-8f69-f91983b2c4d7.png)
-
+------------------------------------------------------------------------
 ### Is there a relationship between customers gender and their status?
 - So, Obvisouly Customers' gender has nothing to do with their status
 ![image](https://user-images.githubusercontent.com/121814714/223502303-519c8c7a-a35b-425c-a2fe-2edb8fe93645.png)
+------------------------------------------------------------------------
+### What is the number of each customer status per mirital status?
+- It's obvious that churned people who are not married are almost double the number of churned people who are married
+![image](https://user-images.githubusercontent.com/121814714/223516944-8d943e44-34d9-42d6-911a-b7d7d066f90b.png)
+------------------------------------------------------------------------
+### Does the offers subscription have got something to do with customers status?
+- It's very clear that people who don't subscribe to offers are the most to leave the company! So the company may target them through customzing special offers to them, So their loyality increases by the time
 
-
+![image](https://user-images.githubusercontent.com/121814714/223525078-9dd38133-d79b-4165-ad17-61ee8900d527.png)
+-----------------------------------------------------------------------------
 
 
 
