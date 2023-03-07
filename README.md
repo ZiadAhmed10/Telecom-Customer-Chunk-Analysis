@@ -6,7 +6,7 @@ This sample data tracks a fictional telco company's customer churn based on a va
 
 -------------------------------------------------
 ## `Project data-set link:` 
-### https://docs.google.com/spreadsheets/d/1aGH3n-c6gSRFY5Mu7KNl7xXJDCM8KTIX/edit?usp=sharing&ouid=117338861444871771319&rtpof=true&sd=true
+### https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113
 -------------------------------------------------
 ## `Project objectives:`
 - EDA [Exploratory Data Anlysis]
