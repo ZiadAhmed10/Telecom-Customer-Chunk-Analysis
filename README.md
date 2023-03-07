@@ -95,8 +95,10 @@ Every screenshot you're going to see in this file is just a sample, And i implem
 -----------------------------------------------------------------------------
 ###  Does the inernet sevice that the company provide contribute into making customers leave the company?
 - Numericals say that most of our churned customers were subscribed to our internet service [15 double the number of churned people who didn't discribe to the company internet service], Which indicates that the company has an URGENT ALARM regarding its internet service
+- `Note` : Same URGENT ALARMING regarding phone service which is provided by the company, As there are 1699 out of 1869 churned ones who did subscribe to the home phone service.
 
 ![image](https://user-images.githubusercontent.com/121814714/223530771-d3368d8e-a6f6-40d0-9ee6-2895cb76f75e.png)
+-----------------------------------------------------------------------------
 
 
 
