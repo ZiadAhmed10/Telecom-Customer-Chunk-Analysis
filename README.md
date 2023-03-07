@@ -103,9 +103,16 @@ Every screenshot you're going to see in this file is just a sample, And i implem
 
 ![image](https://user-images.githubusercontent.com/121814714/223555559-8c52ea77-b5dc-400f-92f6-e977d9580e3f.png)
 -----------------------------------------------------------------------------
-## `Insights' :
-- 
-
+## `Insights` & `Decisions`:
+- 27% of my customers have churned, And most of them have churned in Q3 so we need to ensure that this is a normal percentage in the context of the historical percentages in the company.
+- Most repeated churn category which the churned people mentioned is 'Competitor' which means that the company does have a real issue in its offers and services.
+- 'Churned' status in my customers started showing up in (56 : 65) churn score group [which is the predictive score provided by the IBM tool] which makes this score group the turning point for my customers (So the company need to take an extre care of the customers in this group and the one before it).
+- Gender doesn't affect the customers in any way.
+- Churned people who are not married are almost double the number of churned people who are married [It'll be a good point if the company can make a survey for those customers who are not marriend to unsderstand their needs more, And providing them with customized offers in the future].
+- People who don't subscribe to offers are the most to leave the company ! So the company may target them through providing them with special offers after understanding their aspirations regarding offers, So their loyality and our `Retention Rate` increases by the time.
+- Numericals say that most of our churned customers were subscribed to our internet service [15 double the number of churned people who didn't discribe to the company internet service], Which indicates that the company has an URGENT ALARM regarding its internet service.
+- Same URGENT ALARMING regarding phone service which is provided by the company, As there are 1699 out of 1869 churned ones who did subscribe to the home phone service, So it's obvious that company has a real issue in the services that it provided to its customers.
+-------------------------------------------------------------------------------------------------------------------------
 
 
 
