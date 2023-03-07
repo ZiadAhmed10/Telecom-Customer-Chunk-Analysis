@@ -62,6 +62,7 @@ Every screenshot you're going to see in this file is just a sample, And i implem
 - [Is there a relationship between customers gender and their status?](#is-there-a-relationship-between-customers-gender-and-their-status)
 - [What is the number of each customer status per mirital status?](#what-is-the-number-of-each-customer-status-per-mirital-status)
 - [Does the offers subscription have got something to do with customers status?](#does-the-offers-subscription-have-got-something-to-do-with-customers-status)
+- [Does the inernet sevice that the company provide contribute into making customers leave the company?](#does-the-inernet-sevice-that-the-company-provide-contribute-into-making-customers-leave-the-company)
 ------------------------------------------------------------------------
 ### How many of my customers are chunked or stayed or joined?
 ![image](https://user-images.githubusercontent.com/121814714/223470705-39e96476-dc95-436e-9682-f3a3e030ff6f.png)
@@ -92,7 +93,10 @@ Every screenshot you're going to see in this file is just a sample, And i implem
 
 ![image](https://user-images.githubusercontent.com/121814714/223525078-9dd38133-d79b-4165-ad17-61ee8900d527.png)
 -----------------------------------------------------------------------------
+###  Does the inernet sevice that the company provide contribute into making customers leave the company?
+- Numericals say that most of our churned customers were subscribed to our internet service [15 double the number of churned people who didn't discribe to the company internet service], Which indicates that the company has an URGENT ALARM regarding its internet service
 
+![image](https://user-images.githubusercontent.com/121814714/223530771-d3368d8e-a6f6-40d0-9ee6-2895cb76f75e.png)
 
 
 
