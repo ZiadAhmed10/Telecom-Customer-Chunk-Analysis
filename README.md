@@ -62,11 +62,13 @@ Every screenshot you're going to see in this file is just a sample, And i implem
 - f
 ------------------------------------------------------------------------
 ### How many of my customers are chunked or stayed or joined?
-![image](https://user-images.githubusercontent.com/121814714/223469450-82b69bc9-8241-4dcc-900f-cb6b359d04d5.png)
+![image](https://user-images.githubusercontent.com/121814714/223470705-39e96476-dc95-436e-9682-f3a3e030ff6f.png)
 
 
 ### Why do people leave the company?
-![image](https://user-images.githubusercontent.com/121814714/223468641-a9855a25-1a6c-41c0-8099-4212aca7d952.png)
+![image](https://user-images.githubusercontent.com/121814714/223470791-ab063fbd-5626-496d-9a17-059b8a7c04c6.png)
+
+
 
 
 
