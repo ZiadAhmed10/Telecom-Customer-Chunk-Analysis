@@ -1,16 +1,16 @@
 # Telecom Customer Chunk Analysis
 
-## PROJECT CONTEXT :
+## `PROJECT CONTEXT` :
 
 This sample data tracks a fictional telco company's customer churn based on a variety of possible factors. The churn column indicates whether or not the customer left within the last month. Other columns include gender, dependents, monthly charges, and many with information about the types of services each customer has. Source: IBM.
 
 -------------------------------------------------
-## Project data-set link : 
+## `Project data-set link:` 
 ### https://docs.google.com/spreadsheets/d/1aGH3n-c6gSRFY5Mu7KNl7xXJDCM8KTIX/edit?usp=sharing&ouid=117338861444871771319&rtpof=true&sd=true
 -------------------------------------------------
-## Project objectives:
+## `Project objectives:`
 - EDA [Exploratory Data Anlysis]
-- [Data Validation](#Data-Validation)
+- Data Validation
 - Data Cleaning
 - Data Manipulation and communicating my insights
 - Designing a Dashboard
@@ -21,7 +21,7 @@ This sample data tracks a fictional telco company's customer churn based on a va
 Every screenshot you're going to see in this file is just a sample, And i implement the methodelagy that the screenshot contains on the whole dataset.
 
 
-## Getting Started :
+## `Getting Started :`
 --------------------
 1- Giving the columns more descriptive names to make it easier for me to understnad the data [With the help of Kaggle]
 
@@ -57,16 +57,32 @@ Every screenshot you're going to see in this file is just a sample, And i implem
 ## Questions that you'll find their answers through the project:
 - [How many of my customers are chunked or stayed or joined?](#how-many-of-my-customers-are-chunked-or-stayed-or-joined)
 - [Why do people leave the company?](#why-do-people-leave-the-company)
-- What is the minimum churn score that represents an alarming point for me?
-- Which quarter has the highest nnumber of chunked customers?
-- f
+- [What is the alarming churn scores group for my customers?](#what-is-the-alarming-churn-scores-group-for-my-customers)
+- [Which quarter has the highest number of churned customers?](#which-quarter-has-the-highest-number-of-churned-customers)
+- [Is there a relationship between customers gender and their status?](#is-there-a-relationship-between-customers-gender-and-their-status)
 ------------------------------------------------------------------------
 ### How many of my customers are chunked or stayed or joined?
 ![image](https://user-images.githubusercontent.com/121814714/223470705-39e96476-dc95-436e-9682-f3a3e030ff6f.png)
 
-
 ### Why do people leave the company?
 ![image](https://user-images.githubusercontent.com/121814714/223470791-ab063fbd-5626-496d-9a17-059b8a7c04c6.png)
+
+### What is the alarming churn scores group for my customers?
+- Creating a column in my dataset that depend on 'Churn score' column's values utilizing IF condition, In order to create 10 bins of churn scores to make it easier to explore and analyze the data.
+- It's obvious that 'Churned' status in my customers started showing up in (56 : 65) churn score group which makes this scores group the turning point for my customers.
+![image](https://user-images.githubusercontent.com/121814714/223489191-6fc5b4fd-4cb8-4a72-8026-82a9f5c9b0f4.png)
+
+### Which quarter has the highest number of churned customers?
+- Almost all churned customers, They became churned in Q3 and that's because of the dataset, As the dataset has only 3 observational rows in Q1 and Q2
+
+![image](https://user-images.githubusercontent.com/121814714/223496683-0a125b26-05ba-4de6-8f69-f91983b2c4d7.png)
+
+### Is there a relationship between customers gender and their status?
+- So, Obvisouly Customers' gender has nothing to do with their status
+![image](https://user-images.githubusercontent.com/121814714/223502303-519c8c7a-a35b-425c-a2fe-2edb8fe93645.png)
+
+
+
 
 
 
