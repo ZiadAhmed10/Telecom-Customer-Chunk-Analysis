@@ -14,6 +14,10 @@
 - Categorical Data Encoding
 - Finding variables that impact churn Score
 ----------------------------------------------------------------------------
+### NOTE :
+Every screenshot you're going to see in this file is just a sample, And i implement the methodelagy that the screenshot contains on the whole dataset.
+
+
 ### Getting Started :
 --------------------
 1- Giving the columns more descriptive names to make it easier for me to understnad the data [With the help of Kaggle]
@@ -24,6 +28,13 @@
 
 3- Renaming each of my tables
 ![image](https://user-images.githubusercontent.com/121814714/223104641-b0a41c90-08f2-4a24-b668-23bf4deb08e9.png)
+
+4- Checking for duplicates data 
+![image](https://user-images.githubusercontent.com/121814714/223226127-291baf7a-6271-4b66-873f-ff469a3ed5ef.png)
+
+5- Checking for missing data 
+![image](https://user-images.githubusercontent.com/121814714/223420991-1dab007c-347d-4f92-ae8a-93d458d8a686.png)
+
 
 
 
