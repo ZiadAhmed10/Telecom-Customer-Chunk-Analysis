@@ -72,20 +72,20 @@ Each attatchment(screenshout) you're going to see in this file is just a sample,
 - [Does the inernet sevice that the company provide contribute into making customers leave the company?](#does-the-inernet-sevice-that-the-company-provide-contribute-into-making-customers-leave-the-company)
 ------------------------------------------------------------------------
 ### How many of my customers are churned or stayed or joined?
-- So, 27% of my customers have been churned which is an alarming percentage and the compnay needs to understand more what is going on with those customers !
+- So, `27%` of my customers have been churned which is an alarming percentage and the compnay needs to understand more what is going on with those customers !
 ![image](https://user-images.githubusercontent.com/121814714/223705707-ab231f1d-2ed8-49d5-89f3-53b45f5581a3.png)
 ------------------------------------------------------------------------
 ### Why do people leave the company?
-- Regardless the 'Not churned' people , Almost 45% of churned people are chruned because of the 'Competitor' category , which indicates the the company does have a very strong competitor !
+- Regardless the 'Not churned' people , Almost `45%` of churned people are chruned because of the 'Competitor' category , which indicates the the company does have a very strong competitor !
 ![image](https://user-images.githubusercontent.com/121814714/223470791-ab063fbd-5626-496d-9a17-059b8a7c04c6.png)
 ------------------------------------------------------------------------
 ### What is the alarming churn scores group for my customers?
 - Creating a column in my dataset that depend on 'Churn score' column's values utilizing IF condition, In order to create 10 bins of churn scores to make it easier to explore and analyze the data.
-- It's obvious that 'Churned' status in my customers started showing up in (56 : 65) churn score group which makes this scores group the turning point for my customers.
+- It's obvious that 'Churned' status in my customers started showing up in `(56 : 65)` churn score group which makes this scores group the turning point for my customers.
 ![image](https://user-images.githubusercontent.com/121814714/223489191-6fc5b4fd-4cb8-4a72-8026-82a9f5c9b0f4.png)
 ------------------------------------------------------------------------
 ### Which quarter has the highest number of churned customers?
-- Almost all churned customers, They became churned in Q3 and that's because of the dataset, As the dataset has only 3 observational rows in Q1 and Q2
+- Almost all churned customers, They became churned in `Q3` and that's because of the dataset, As the dataset has only 3 observational rows in Q1 and Q2
 
 ![image](https://user-images.githubusercontent.com/121814714/223496683-0a125b26-05ba-4de6-8f69-f91983b2c4d7.png)
 ------------------------------------------------------------------------
@@ -98,19 +98,20 @@ Each attatchment(screenshout) you're going to see in this file is just a sample,
 ![image](https://user-images.githubusercontent.com/121814714/223516944-8d943e44-34d9-42d6-911a-b7d7d066f90b.png)
 ------------------------------------------------------------------------
 ### Does the offers subscription have got something to do with customers status?
-- It's very clear that people who don't subscribe to offers are the most to leave the company! So the company may target them through customzing special offers to them, So their loyality increases by the time
+- It's very clear that people who don't subscribe to offers are the most to leave the company !`56.23%` of churned people don't subsribe to offers, So the company may target them through customzing special offers to them, So their loyality increases by the time
 
 ![image](https://user-images.githubusercontent.com/121814714/223525078-9dd38133-d79b-4165-ad17-61ee8900d527.png)
 -----------------------------------------------------------------------------
 ###  Does the inernet sevice that the company provide contribute into making customers leave the company?
-- Numericals say that most of our churned customers were subscribed to our internet service [15 double the number of churned people who didn't discribe to the company internet service], Which indicates that the company has an URGENT ALARM regarding its internet service
-- `Note` : Same URGENT ALARMING regarding phone service which is provided by the company, As there are 1699 out of 1869 churned ones who did subscribe to the home phone service.
+- Numericals say that most of our churned customers were subscribed to our internet service [`15 double` the number of churned people who didn't discribe to the company internet service], Which indicates that the company has an URGENT ALARM regarding its internet service
+- `Note` : Same URGENT ALARMING regarding phone service which is provided by the company, As there are `1699` out of `1869` churned ones who did subscribe to the home phone service.
 
 ![image](https://user-images.githubusercontent.com/121814714/223530771-d3368d8e-a6f6-40d0-9ee6-2895cb76f75e.png)
 -----------------------------------------------------------------------------
 <h1 align="center">The Dashboard📊</h1>
 
-![image](https://user-images.githubusercontent.com/121814714/223555559-8c52ea77-b5dc-400f-92f6-e977d9580e3f.png)
+![image](https://user-images.githubusercontent.com/121814714/223708416-5cbe754f-737d-4bfa-992d-9ae0832fe4dc.png)
+
 -----------------------------------------------------------------------------
 ## `Insights` And `Decisions`
 
