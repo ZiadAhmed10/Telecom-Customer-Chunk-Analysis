@@ -13,7 +13,7 @@ This sample data tracks a fictional telco company's customer churn based on a va
 - [Questions that you will find their answers through the project](#questions-that-you-will-find-their-answers-through-the-project)
 - [The Dashboard📊](#the-dashboard)
 - [Insights And Decisions](#insights-and-decisions)
-- [Variables which significantly impact churn score](#variables-which-significantly-impact-churn-score)
+- [Variables which significantly impact customers being churned](#variables-which-significantly-impact-customers-being-churned)
 
 --------------------------------------------------
 ## `Project objectives:`
@@ -135,6 +135,16 @@ Each attatchment(screenshout) you're going to see in this file is just a sample,
 - Numericals say that most of our churned customers were subscribed to our internet service [15 double the number of churned people who didn't discribe to the company internet service], Which indicates that the company has an URGENT ALARM regarding its internet service.
 - Same URGENT ALARMING regarding phone service which is provided by the company, As there are 1699 out of 1869 churned ones who did subscribe to the home phone service, So it's obvious that company has a real issue in the services that it provided to its customers.
 -------------------------------------------------------------------------------------------------------------------------
-## `Variables which significantly impact churn score`
-- Satisfaction Score [`3` represents an alarm for me as all customers with satisfaction score 2 out of 5 are churned]
-- 
+## `Variables which significantly impact customers being churned`
+- Satisfaction Score [ `3` represents an ALARM for the compnay as all customers with satisfaction score 2 out of 5 are churned].
+- Churn scores starting from `56 : 65`, As churned status started to begin at this group of scores.
+- Mirital status, As most churned people are not married.
+- Subscription to offers, As most of churned people don't subscribe to the company offers.
+- Subscription to internet service provided by the company, As most of churned people were subscribed to the internet service.
+- Subscription to phone service provided by the company, As most of churned people were subscribed to the home phone service.
+-----------------------------------------------------------------------
+
+## 🔗 Get In Touch
+<a href="mailto:zaidahmed12300@gmail.com"><img alt="Gmail" title="Ziad Ahmed's Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziad-ahmed0)
+
