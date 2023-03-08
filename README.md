@@ -8,8 +8,9 @@ This sample data tracks a fictional telco company's customer churn based on a va
 ## `Project data-set link:` 
 ### https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113
 -------------------------------------------------
-## `File Content` :
+## `Project Content` :
 - [Getting Started with EDA](#getting-started-with-eda)
+- [Questions that you will find their answers through the project](#questions-that-you-will-find-their-answers-through-the-project)
 - [The Dashboard📊](#the-dashboard)
 - [Insights And Decisions](#insights-and-decisions)
 
@@ -24,7 +25,7 @@ This sample data tracks a fictional telco company's customer churn based on a va
 - Finding variables that impact churn Score
 
 ### Note :
-Every screenshot you're going to see in this file is just a sample, And i implement the methodelagy that the screenshot contains on the whole dataset.
+Each attatchment(screenshout) you're going to see in this file is just a sample, And i implement the methodelagy that the screenshot contains on the whole dataset.
 
 
 ## `Getting Started with EDA`
@@ -33,7 +34,7 @@ Every screenshot you're going to see in this file is just a sample, And i implem
 
 ![image](https://user-images.githubusercontent.com/121814714/223100643-41d19618-9f2d-43e2-b836-16c8ea1bf9c4.png)
 -------------------------------------------------
-2- Formatting each table in a single tab in my file as a table 
+2- Formatting each table in a single tab in my excel file as a table 
 
 ![image](https://user-images.githubusercontent.com/121814714/223104260-9d314c1a-5e06-486e-8eaf-9cb689989848.png)
 -------------------------------------------------
@@ -51,17 +52,17 @@ Every screenshot you're going to see in this file is just a sample, And i implem
 -------------------------------------------------
 6- Handelling missing data
 
-- EX : Replacing missing data with logical values [Like in the screenshot below, It makes scence that 'Churn Label' for customers whose status is churned will be yes, And for customers whose status is stayed, It'll defintely be no]
+- EX : Replacing missing data with logical values [Like in the screenshot below, It makes sense that 'Churn Label' for customers whose status is churned will be yes, And for customers whose status is stayed, It'll defintely be no !]
 ![image](https://user-images.githubusercontent.com/121814714/223423817-ad947f28-b4f5-491d-bff0-079b67e86dfa.png)
 -------------------------------------------------
-- EX2: Replacing null values in 'Churn Category' with 'Not churned', As in this column the missing values indicate that this customer is not churned so there is no category for his churn
+- EX2: Replacing null values in 'Churn Category' with 'Not churned', As in this column the missing values(blanks) indicate that this customer is not churned so there is no category for his churn
 ![image](https://user-images.githubusercontent.com/121814714/223426248-a5d4c746-b4f2-44d6-a805-09a29bc17b7e.png)
 ------------------------------------------------------------------------------------------------------------
 ### By now the data is validated and cleaned, missing values are handeled, there are no outliers, there are no duplicates.
 
 ### So, This is the time to ask questions in order to answer them to gain some insights about the data
-## `Questions that you'll find their answers through the project:`
-- [How many of my customers are chunked or stayed or joined?](#how-many-of-my-customers-are-chunked-or-stayed-or-joined)
+## `Questions that you will find their answers through the project`
+- [How many of my customers are churned or stayed or joined?](#how-many-of-my-customers-are-churned-or-stayed-or-joined)
 - [Why do people leave the company?](#why-do-people-leave-the-company)
 - [What is the alarming churn scores group for my customers?](#what-is-the-alarming-churn-scores-group-for-my-customers)
 - [Which quarter has the highest number of churned customers?](#which-quarter-has-the-highest-number-of-churned-customers)
@@ -70,10 +71,12 @@ Every screenshot you're going to see in this file is just a sample, And i implem
 - [Does the offers subscription have got something to do with customers status?](#does-the-offers-subscription-have-got-something-to-do-with-customers-status)
 - [Does the inernet sevice that the company provide contribute into making customers leave the company?](#does-the-inernet-sevice-that-the-company-provide-contribute-into-making-customers-leave-the-company)
 ------------------------------------------------------------------------
-### How many of my customers are chunked or stayed or joined?
-![image](https://user-images.githubusercontent.com/121814714/223470705-39e96476-dc95-436e-9682-f3a3e030ff6f.png)
+### How many of my customers are churned or stayed or joined?
+- So, 27% of my customers have been churned which is an alarming percentage and the compnay needs to understand more what is going on with those customers !
+![image](https://user-images.githubusercontent.com/121814714/223705707-ab231f1d-2ed8-49d5-89f3-53b45f5581a3.png)
 ------------------------------------------------------------------------
 ### Why do people leave the company?
+- Regardless the 'Not churned' people , Almost 45% of churned people are chruned because of the 'Competitor' category , which indicates the the company does have a very strong competitor !
 ![image](https://user-images.githubusercontent.com/121814714/223470791-ab063fbd-5626-496d-9a17-059b8a7c04c6.png)
 ------------------------------------------------------------------------
 ### What is the alarming churn scores group for my customers?
