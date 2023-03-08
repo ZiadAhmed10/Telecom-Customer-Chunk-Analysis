@@ -70,6 +70,7 @@ Each attatchment(screenshout) you're going to see in this file is just a sample,
 - [What is the number of each customer status per mirital status?](#what-is-the-number-of-each-customer-status-per-mirital-status)
 - [Does the offers subscription have got something to do with customers status?](#does-the-offers-subscription-have-got-something-to-do-with-customers-status)
 - [Does the inernet sevice that the company provide contribute into making customers leave the company?](#does-the-inernet-sevice-that-the-company-provide-contribute-into-making-customers-leave-the-company)
+- [What is the number of each customer status per each tenure months group?](#what-is-the-number-of-each-customer-status-per-each-tenure-months-group)
 ------------------------------------------------------------------------
 ### How many of my customers are churned or stayed or joined?
 - So, `27%` of my customers have been churned which is an alarming percentage and the compnay needs to understand more what is going on with those customers !
@@ -108,10 +109,13 @@ Each attatchment(screenshout) you're going to see in this file is just a sample,
 
 ![image](https://user-images.githubusercontent.com/121814714/223530771-d3368d8e-a6f6-40d0-9ee6-2895cb76f75e.png)
 -----------------------------------------------------------------------------
+### What is the number of each customer status per each tenure months group?
+- So, `51.80%` of churned people are churned at `1:10 tenure months`, Which should make the company pay attention to those who are in this stage in order to keep them with the company !
+![image](https://user-images.githubusercontent.com/121814714/223749911-6fd622a4-e759-4206-a24a-471f2a8be128.png)
+-----------------------------------------------------------------------------
 <h1 align="center">The Dashboard📊</h1>
 
-![image](https://user-images.githubusercontent.com/121814714/223708416-5cbe754f-737d-4bfa-992d-9ae0832fe4dc.png)
-
+![image](https://user-images.githubusercontent.com/121814714/223735935-cff01481-65d2-46f2-bac2-472507bf0721.png)
 -----------------------------------------------------------------------------
 ## `Insights` And `Decisions`
 
