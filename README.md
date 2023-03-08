@@ -121,7 +121,7 @@ Each attatchment(screenshout) you're going to see in this file is just a sample,
 -----------------------------------------------------------------------------
 <h1 align="center">The Dashboard📊</h1>
 
-![image](https://user-images.githubusercontent.com/121814714/223789116-6625568e-9711-458b-8235-04b8510ea907.png)
+![image](https://user-images.githubusercontent.com/121814714/223815218-fe2d0214-d2a5-4230-a4f8-7d4e9b9c54ac.png)
 -----------------------------------------------------------------------------
 ## `Insights` And `Decisions`
 
