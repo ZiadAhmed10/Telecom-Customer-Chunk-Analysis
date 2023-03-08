@@ -13,6 +13,7 @@ This sample data tracks a fictional telco company's customer churn based on a va
 - [Questions that you will find their answers through the project](#questions-that-you-will-find-their-answers-through-the-project)
 - [The Dashboard📊](#the-dashboard)
 - [Insights And Decisions](#insights-and-decisions)
+- [Variables which significantly impact churn score](#variables-which-significantly-impact-churn-score)
 
 --------------------------------------------------
 ## `Project objectives:`
@@ -65,6 +66,7 @@ Each attatchment(screenshout) you're going to see in this file is just a sample,
 - [How many of my customers are churned or stayed or joined?](#how-many-of-my-customers-are-churned-or-stayed-or-joined)
 - [Why do people leave the company?](#why-do-people-leave-the-company)
 - [What is the alarming churn scores group for my customers?](#what-is-the-alarming-churn-scores-group-for-my-customers)
+- [How does satisfaction score affect the status of my customers?](#how-does-satisfaction-score-affect-the-status-of-my-customers)
 - [Which quarter has the highest number of churned customers?](#which-quarter-has-the-highest-number-of-churned-customers)
 - [Is there a relationship between customers gender and their status?](#is-there-a-relationship-between-customers-gender-and-their-status)
 - [What is the number of each customer status per mirital status?](#what-is-the-number-of-each-customer-status-per-mirital-status)
@@ -85,6 +87,10 @@ Each attatchment(screenshout) you're going to see in this file is just a sample,
 - It's obvious that 'Churned' status in my customers started showing up in `(56 : 65)` churn score group which makes this scores group the turning point for my customers.
 ![image](https://user-images.githubusercontent.com/121814714/223489191-6fc5b4fd-4cb8-4a72-8026-82a9f5c9b0f4.png)
 ------------------------------------------------------------------------
+## How does satisfaction score affect the status of my customers
+- It's clear that all customers with a satisfaction score of 2 are churned, So the company needs to consider all customers with a satisfaction score of 3 through paying extra attention to them in order to be able to keep them in the company
+![image](https://user-images.githubusercontent.com/121814714/223802510-0d8b2135-421b-413a-8d7d-59d2d7bb0843.png)
+--------------------------------------------------------------------
 ### Which quarter has the highest number of churned customers?
 - Almost all churned customers, They became churned in `Q3` and that's because of the dataset, As the dataset has only 3 observational rows in Q1 and Q2
 
@@ -122,11 +128,13 @@ Each attatchment(screenshout) you're going to see in this file is just a sample,
 - 27% of my customers have churned, And most of them have churned in Q3 so we need to ensure that this is a normal percentage in the context of the historical percentages in the company.
 - Most repeated churn category which the churned people mentioned is 'Competitor' which means that the company does have a real issue in its offers and services.
 - 'Churned' status in my customers started showing up in (56 : 65) churn score group [which is the predictive score provided by the IBM tool] which makes this score group the turning point for my customers (So the company need to take an extre care of the customers in this group and the one before it).
+- All customers with a satisfaction score of 2 are churned, So the company needs to consider all customers with a satisfaction score of 3 through paying extra attention to them in order to be able to keep them in the company.
 - Gender doesn't affect the customers in any way.
 - Churned people who are not married are almost double the number of churned people who are married [It'll be a good point if the company can make a survey for those customers who are not marriend to unsderstand their needs more, And providing them with customized offers in the future].
 - People who don't subscribe to offers are the most to leave the company ! So the company may target them through providing them with special offers after understanding their aspirations regarding offers, So their loyality and our `Retention Rate` increases by the time.
 - Numericals say that most of our churned customers were subscribed to our internet service [15 double the number of churned people who didn't discribe to the company internet service], Which indicates that the company has an URGENT ALARM regarding its internet service.
 - Same URGENT ALARMING regarding phone service which is provided by the company, As there are 1699 out of 1869 churned ones who did subscribe to the home phone service, So it's obvious that company has a real issue in the services that it provided to its customers.
 -------------------------------------------------------------------------------------------------------------------------
-## `Variables do significantly impact churn score`
-
+## `Variables which significantly impact churn score`
+- Satisfaction Score [`3` represents an alarm for me as all customers with satisfaction score 2 out of 5 are churned]
+- 
