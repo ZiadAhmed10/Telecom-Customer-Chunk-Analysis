@@ -8,6 +8,12 @@ This sample data tracks a fictional telco company's customer churn based on a va
 ## `Project data-set link:` 
 ### https://www.kaggle.com/datasets/ylchang/telco-customer-churn-1113
 -------------------------------------------------
+## `File Content` :
+- [Getting Started with EDA](#getting-started-with-eda)
+- [The Dashboard📊](#the-dashboard)
+- [Insights And Decisions](#insights-and-decisions)
+
+--------------------------------------------------
 ## `Project objectives:`
 - EDA [Exploratory Data Anlysis]
 - Data Validation
@@ -21,7 +27,7 @@ This sample data tracks a fictional telco company's customer churn based on a va
 Every screenshot you're going to see in this file is just a sample, And i implement the methodelagy that the screenshot contains on the whole dataset.
 
 
-## `Getting Started :`
+## `Getting Started with EDA`
 --------------------
 1- Giving the columns more descriptive names to make it easier for me to understnad the data [With the help of Kaggle]
 
@@ -99,11 +105,12 @@ Every screenshot you're going to see in this file is just a sample, And i implem
 
 ![image](https://user-images.githubusercontent.com/121814714/223530771-d3368d8e-a6f6-40d0-9ee6-2895cb76f75e.png)
 -----------------------------------------------------------------------------
-<h1 align="center"> The Dashboard 📊 </h1>
+<h1 align="center">The Dashboard📊</h1>
 
 ![image](https://user-images.githubusercontent.com/121814714/223555559-8c52ea77-b5dc-400f-92f6-e977d9580e3f.png)
 -----------------------------------------------------------------------------
-## `Insights` & `Decisions`:
+## `Insights` And `Decisions`
+
 - 27% of my customers have churned, And most of them have churned in Q3 so we need to ensure that this is a normal percentage in the context of the historical percentages in the company.
 - Most repeated churn category which the churned people mentioned is 'Competitor' which means that the company does have a real issue in its offers and services.
 - 'Churned' status in my customers started showing up in (56 : 65) churn score group [which is the predictive score provided by the IBM tool] which makes this score group the turning point for my customers (So the company need to take an extre care of the customers in this group and the one before it).
