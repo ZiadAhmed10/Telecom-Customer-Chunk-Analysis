@@ -115,7 +115,7 @@ Each attatchment(screenshout) you're going to see in this file is just a sample,
 -----------------------------------------------------------------------------
 <h1 align="center">The Dashboard📊</h1>
 
-![image](https://user-images.githubusercontent.com/121814714/223735935-cff01481-65d2-46f2-bac2-472507bf0721.png)
+![image](https://user-images.githubusercontent.com/121814714/223789116-6625568e-9711-458b-8235-04b8510ea907.png)
 -----------------------------------------------------------------------------
 ## `Insights` And `Decisions`
 
@@ -128,7 +128,5 @@ Each attatchment(screenshout) you're going to see in this file is just a sample,
 - Numericals say that most of our churned customers were subscribed to our internet service [15 double the number of churned people who didn't discribe to the company internet service], Which indicates that the company has an URGENT ALARM regarding its internet service.
 - Same URGENT ALARMING regarding phone service which is provided by the company, As there are 1699 out of 1869 churned ones who did subscribe to the home phone service, So it's obvious that company has a real issue in the services that it provided to its customers.
 -------------------------------------------------------------------------------------------------------------------------
-
-
-
+## `Variables do significantly impact churn score`
 
