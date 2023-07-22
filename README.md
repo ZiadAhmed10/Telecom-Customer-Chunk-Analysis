@@ -1,4 +1,4 @@
-# Telecom Customer Chunk Analysis
+# Telecom Customer Churn Analysis
 
 ## `PROJECT CONTEXT` :
 
